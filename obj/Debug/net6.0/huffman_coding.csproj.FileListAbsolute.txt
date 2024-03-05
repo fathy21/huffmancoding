@@ -1,0 +1,14 @@
+D:\c#_coding\huffman_coding\huffman_coding\bin\Debug\net6.0\huffman_coding.exe
+D:\c#_coding\huffman_coding\huffman_coding\bin\Debug\net6.0\huffman_coding.deps.json
+D:\c#_coding\huffman_coding\huffman_coding\bin\Debug\net6.0\huffman_coding.runtimeconfig.json
+D:\c#_coding\huffman_coding\huffman_coding\bin\Debug\net6.0\huffman_coding.dll
+D:\c#_coding\huffman_coding\huffman_coding\bin\Debug\net6.0\huffman_coding.pdb
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.AssemblyInfoInputs.cache
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.AssemblyInfo.cs
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.csproj.CoreCompileInputs.cache
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.dll
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\refint\huffman_coding.dll
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.pdb
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\huffman_coding.genruntimeconfig.cache
+D:\c#_coding\huffman_coding\huffman_coding\obj\Debug\net6.0\ref\huffman_coding.dll
